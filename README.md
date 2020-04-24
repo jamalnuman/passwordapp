@@ -8,3 +8,6 @@ Length of twenty characters with lowercase letters, uppercase letters, numbers a
 
 Length of 10 characters with only numbers and symbols: 
 ![](images/2nd.png)
+
+### Let's connect. 
+[LinkedIn](https://www.linkedin.com/in/jamal-numan/).
